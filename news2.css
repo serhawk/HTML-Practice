@@ -1,0 +1,13 @@
+.khazad p {
+opacity: 0.9;
+font-weight: bold;
+font-family: TimesNewRoman;
+}
+
+.dum div span{
+font-weight: bold;
+font-family: TimesNewRoman;
+background-color: #A569BD;
+border-radius:15px;
+padding-left: 5px;
+}
